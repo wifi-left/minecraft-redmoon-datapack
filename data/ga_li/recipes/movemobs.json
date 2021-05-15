@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "NiN",
+    " N "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:feather"
+    },
+    "i": {
+      "item": "minecraft:stick"
+    },
+	"N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+	"nbt":"{pickit:1b,display:{Name:\"\\\"\\\\u00a75Mobs Mover\\\"\"}}"
+  }
+}

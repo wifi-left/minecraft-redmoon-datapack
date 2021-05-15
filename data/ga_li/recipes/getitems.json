@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    " i ",
+    " J "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:hopper"
+    },
+    "i": {
+      "item": "minecraft:stick"
+    },
+	"J": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+	"nbt":"{goitem:1b,display:{Name:\"\\\"\\\\u00a75Item Attraction\\\"\"}}"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    " i ",
+    "   "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:feather"
+    },
+    "i": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:feather",
+	"nbt":"{flycar:1b,display:{Name:\"\\\"\\\\u00a76Fly Feather\\\"\"}}"
+  }
+}
