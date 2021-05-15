@@ -15,6 +15,11 @@ Minecraft Datapack : Redmoon 血月（怪物增强）
 
 5.Have a good time !
 
+# How to Set the Options
+
+`/reload`
+Setting (FUNCTION) : `/function minecraft:settingsg`
+
 # Author
 
 Author : Gamom
